@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/home/kjshepherd/dev/BuLogics/libstm8'
+let g:netrw_dirhist_2='/home/kjshepherd/dev/BuLogics/evolutioncoproc'
+let g:netrw_dirhist_3='/home/kjshepherd/Documents/Courses/CIS541/simplestopwatch/src'
+let g:netrw_dirhist_4='/home/kjshepherd/Documents/Courses/CIS541/hw02-kshep/Program'
+let g:netrw_dirhist_5='/home/kjshepherd/Documents/Courses/CIS541/hw02-kshep/Program/src'
+let g:netrw_dirhist_6='/home/kjshepherd/Documents/Courses/CIS541/simplestopwatch/src'
+let g:netrw_dirhist_7='/home/kjshepherd/Documents/Courses/MEAM520/hw03/programming_assignment/flying_box_kshep_calic'
+let g:netrw_dirhist_8='/home/kjshepherd/dev/kinematics/screws'
