@@ -14,3 +14,5 @@ set textwidth=80
 let g:molokai_original = 1
 set bg=dark
 highlight Normal ctermfg=grey ctermbg=black
+
+noremap <CR> :noh<CR><CR>
