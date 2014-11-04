@@ -16,3 +16,6 @@ set bg=dark
 highlight Normal ctermfg=grey ctermbg=black
 
 noremap <CR> :noh<CR><CR>
+
+filetype plugin indent on
+syntax on
