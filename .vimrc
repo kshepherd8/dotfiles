@@ -9,6 +9,8 @@ set autochdir
 set autoindent
 set cindent
 
+set ruler
+
 set textwidth=80
 
 let g:molokai_original = 1
