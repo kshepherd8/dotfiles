@@ -7,11 +7,14 @@ set wildmode=longest,list,full
 set wildmenu
 set autochdir
 set autoindent
+set smartindent
 set cindent
 
 set ruler
 
 set textwidth=80
+
+set tags=tags;
 
 let g:molokai_original = 1
 set bg=dark
