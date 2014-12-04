@@ -1,3 +1,7 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =1
+let g:netrw_dirhist_cnt =5
 let g:netrw_dirhist_1='/Users/kyleshepherd/Dev/wink-hub/vagrant_setup'
+let g:netrw_dirhist_2='/Users/kyleshepherd/Dev/wink-hub-apron/control-radios/zwave'
+let g:netrw_dirhist_3='/Users/kyleshepherd/Dev/wink-hub-apron/database/schema/patches'
+let g:netrw_dirhist_4='/Users/kyleshepherd/Dev/wink-hub/protocol'
+let g:netrw_dirhist_5='/Users/kyleshepherd/Dev/wink-hub-notes'

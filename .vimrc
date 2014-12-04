@@ -10,6 +10,8 @@ set autoindent
 set smartindent
 set cindent
 
+set nowrap
+
 set foldmethod=indent
 
 set ruler
