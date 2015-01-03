@@ -18,6 +18,9 @@ set ruler
 
 set textwidth=80
 
+set ls=2
+set ruler
+
 set tags=tags;
 
 let g:molokai_original = 1
