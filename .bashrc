@@ -11,6 +11,7 @@ HISTCONTROL=ignoreboth
 # add local binary dir to path
 export PATH="/usr/local/MATLAB/R2014a/bin:$PATH"
 export PATH="$HOME/dev/BuLogics/codingstandards:$PATH"
+export PATH="$HOME/Dev/wink-embedded-tools/scripts:$PATH"
 export PATH="$HOME/local/bin:$PATH"
 export PATH="$HOME/scripts:$PATH"
 export EDITOR="vim"
@@ -77,6 +78,8 @@ alias less='less -R'
 alias ll='ls -l'
 alias la='ls -la'
 alias l='ls -CF'
+alias hubssh='ssh -i ~/.ssh/id_rsa_winkhub'
+alias hubscp='scp -i ~/.ssh/id_rsa_winkhub'
 # Alias definitions.
 # You may want to put all your additions into a separate file like
 # ~/.bash_aliases, instead of adding them here directly.

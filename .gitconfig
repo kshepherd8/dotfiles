@@ -1,6 +1,6 @@
 [user]
 	name = Kyle Shepherd
-	email = kjshepherd@gmail.com
+	email = kshepherd@winkapp.com
 [push]
 	default = current
 [color]
@@ -27,3 +27,7 @@
     subup = submodule update --init --recursive
 [github]
 	user = kshepherd8
+[filter "media"]
+	required = true
+	clean = git media clean %f
+	smudge = git media smudge %f
