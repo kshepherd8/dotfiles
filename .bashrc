@@ -10,7 +10,7 @@ HISTCONTROL=$HISTCONTROL${HISTCONTROL+,}ignoredups
 HISTCONTROL=ignoreboth
 # add local binary dir to path
 export PATH="/usr/local/MATLAB/R2014a/bin:$PATH"
-export PATH="$HOME/dev/BuLogics/codingstandards:$PATH"
+export PATH="$HOME/dev/wink-embedded-tools/scripts:$PATH"
 export PATH="$HOME/local/bin:$PATH"
 export PATH="$HOME/scripts:$PATH"
 export EDITOR="vim"

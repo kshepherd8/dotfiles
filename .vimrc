@@ -11,6 +11,8 @@ set cindent
 
 set textwidth=80
 
+set tags=tags;
+
 let g:molokai_original = 1
 set bg=dark
 highlight Normal ctermfg=grey ctermbg=black
