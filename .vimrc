@@ -1,4 +1,7 @@
-set shiftwidth=4 softtabstop=4
+syntax on
+filetype indent plugin on
+
+set tabstop=8 expandtab shiftwidth=4 softtabstop=4
 set incsearch ignorecase hlsearch
 " Press space to clear search highlighting and any message already displayed.
 nnoremap <silent> <Space> :silent noh<Bar>echo<CR>
@@ -18,8 +21,11 @@ let g:molokai_original = 1
 set bg=dark
 highlight Normal ctermfg=grey ctermbg=black
 
-syntax on
 colorscheme ron
-filetype indent plugin on
+
+set foldmethod=indent
+set foldnestmax=10
+set nofoldenable
+set foldlevel=2
 
 noremap <CR> :noh<CR><CR>
