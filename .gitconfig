@@ -26,4 +26,4 @@
     tree = log --all --graph --decorate --pretty=oneline --abbrev-commit
     subup = submodule update --init --recursive
 [github]
-	user = ssfrr
+	user = kshepherd8
